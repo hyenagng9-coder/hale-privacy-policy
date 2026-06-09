@@ -15,6 +15,5 @@ HALE does not knowingly collect any data from users of any age. The app is suita
 Changes to This Policy
 We may update this policy from time to time. Any changes will be reflected with an updated date at the top of this page.
 Contact Us
-If you have any questions about this privacy policy, contact us at:
-support@coracorp.com
-Host it on a free site like Google Sites or GitHub Pages, then paste the URL into Play Console.
+If you have any questions about this privacy policy, contact us at 
+Hyenagng9@gmail.com 
